@@ -1,3 +1,3 @@
 # Robot-Omnidireccional
 
-Para poder darle el mapa a el robot omnidireccional, se debe cargar el mapa en el archivo.py, luego, ubicar el punto inicial y final. Este programa resolverá el laberinto y entregará las velocidades, tiempos y número de secuencias que el carro debe seguir. Estas salidas se deben copiar y pegar en las respectivas variables en el archivo.ino
+Para proporcionar el mapa al robot omnidireccional, es necesario cargarlo en el archivo A_Star.py. A continuación, se deben establecer los puntos inicial y final. El programa se encargará de resolver el laberinto y generará como resultado las velocidades, los tiempos y el número de secuencias que el robot debe seguir. Estos resultados deben ser copiados y pegados en las variables correspondientes dentro del archivo CarroOmni.ino.
